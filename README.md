@@ -2,4 +2,4 @@
 
 ## 3. Tangent Bug
 
-! [](Demo/Tangent Bug.gif)
+![](Demo/TangentBug.gif)
