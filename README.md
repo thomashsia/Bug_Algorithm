@@ -3,4 +3,4 @@
 ## 3. Tangent Bug
 
 ![](Demo/TangentBug.gif)
- <img src="Demo/TangentBug.gif" width="70%"> 
+ <img src="Demo/TangentBug.gif" scale="50%"> 
